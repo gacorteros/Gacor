@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-alternatif-win88",
+        "command": "slot-alternatif-win88:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-alternatif-win88",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-alternatif-win88:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

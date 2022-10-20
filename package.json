@@ -1,0 +1,51 @@
+{
+  "_from": "https://www.atom.io/api/packages/slot-alternatif-win88/versions/0.0.2/tarball",
+  "_id": "slot-alternatif-win88@0.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-N9FdCDDiXvTgG7COlAr9cq4qTDbXCejm6xQ0pyb268WNPThQttSi9g4PkVll66/OTwDeSjl2UKVwxarT64K5Zg==",
+  "_location": "/slot-alternatif-win88",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/slot-alternatif-win88/versions/0.0.2/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/slot-alternatif-win88/versions/0.0.2/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/slot-alternatif-win88/versions/0.0.2/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/slot-alternatif-win88/versions/0.0.2/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/slot-alternatif-win88/versions/0.0.2/tarball",
+  "_shasum": "d52546b2faae3adae8e402ec194828ac61f9e3c2",
+  "_spec": "https://www.atom.io/api/packages/slot-alternatif-win88/versions/0.0.2/tarball",
+  "_where": "C:\\Users\\DELL\\AppData\\Local\\Temp\\apm-install-dir-202287-48656-1aj4b0k.sbok",
+  "activationCommands": {
+    "atom-workspace": "slot-alternatif-win88:toggle"
+  },
+  "bugs": {
+    "url": "https://github.com/kumispakrt/slot-alternatif-win88/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "win88 bersama Taruhangacor adalah situs judi slot online terpercaya dan agen judi slot online terbaik di Indonesia yang sudah menjadi bandar judi slot online terbesar di Asia",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/kumispakrt/slot-alternatif-win88#readme",
+  "keywords": [
+    "win88",
+    "win88 alternatif",
+    "win88 login",
+    "win88 daftar"
+  ],
+  "license": "MIT",
+  "main": "./lib/slot-alternatif-win88",
+  "name": "slot-alternatif-win88",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumispakrt/slot-alternatif-win88.git"
+  },
+  "version": "0.0.2"
+}
